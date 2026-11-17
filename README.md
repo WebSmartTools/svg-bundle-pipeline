@@ -1,4 +1,5 @@
 # svg-bundle-pipeline
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/websmarttools/svg-bundle-pipeline)
 
 Generate, vectorize, and package commercial-grade, cut-ready SVG designs and bundles for Cricut, Silhouette, Etsy, laser engraving, and sublimation.
 
